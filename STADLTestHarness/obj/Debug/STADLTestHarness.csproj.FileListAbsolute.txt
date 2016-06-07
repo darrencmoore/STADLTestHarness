@@ -1,0 +1,16 @@
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness.csprojResolveAssemblyReference.cache
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\MainWindow.g.cs
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\App.g.cs
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness_MarkupCompile.cache
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness_MarkupCompile.lref
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\bin\Debug\STADLTestHarness.exe.config
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\bin\Debug\STADLTestHarness.exe
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\bin\Debug\STADLTestHarness.pdb
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\bin\Debug\STADL.dll
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\bin\Debug\STADL.pdb
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\MainWindow.baml
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness.g.resources
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness.Properties.Resources.resources
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness.csproj.GenerateResource.Cache
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness.exe
+C:\Users\darrenm\Documents\Visual Studio 2015\Projects\STADLTestHarness\STADLTestHarness\obj\Debug\STADLTestHarness.pdb
