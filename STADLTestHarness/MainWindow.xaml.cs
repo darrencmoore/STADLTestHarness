@@ -55,7 +55,7 @@ namespace STADLTestHarness
 
         private void DBCloseButton_Click(object sender, RoutedEventArgs e)
         {
-            try
+            try 
             {
                 STADL.Bot _stadlbotCloseConnection = new STADL.Bot();
                 _stadlbotCloseConnection.DBCloseConnection();
