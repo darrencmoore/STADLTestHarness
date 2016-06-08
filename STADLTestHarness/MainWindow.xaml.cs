@@ -91,7 +91,8 @@ namespace STADLTestHarness
                 info.CreateNoWindow = true;
                 info.WindowStyle = ProcessWindowStyle.Normal;
 
-                ////Load Files in Selected Folder
+                //Load Files in Selected Folder
+                //Loop for more than one file.
                 //string[] allFiles = System.IO.Directory.GetFiles(Directory);
                 //foreach (string file in allFiles)
                 //{
