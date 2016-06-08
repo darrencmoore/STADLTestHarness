@@ -42,7 +42,7 @@ namespace STADLTestHarness
                 {
                     Console.WriteLine("Database Connected");
                 }
-                else
+                else 
                 {
                     Console.WriteLine("Database Not Connected");
                 }
