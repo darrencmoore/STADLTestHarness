@@ -11,6 +11,8 @@
         <Button x:Name="DBCloseButton" Content="DB Connection Close" HorizontalAlignment="Left" Margin="169,62,0,0" VerticalAlignment="Top" Width="154" Click="DBCloseButton_Click"/>
         <Button x:Name="HiddenPrintButton" Content="Hidden Print (No Dialog)" HorizontalAlignment="Left" Margin="169,100,0,0" VerticalAlignment="Top" Width="154" Click="HiddenPrintButton_Click"/>
         <Button x:Name="DialogPrintButton" Content="Dialog Print" HorizontalAlignment="Left" Margin="169,137,0,0" VerticalAlignment="Top" Width="154" RenderTransformOrigin="-0.853,-1.227" Click="DialogPrintButton_Click"/>
+        <Button x:Name="SelectStmtButton" Content="Select" HorizontalAlignment="Left" Margin="169,174,0,0" VerticalAlignment="Top" Width="154" Click="SelectStmtButton_Click"/>
+        <TextBox x:Name="SelectResponseTextBox" HorizontalAlignment="Left" Height="23" Margin="339,174,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="154"/>
 
     </Grid>
 </Window>
