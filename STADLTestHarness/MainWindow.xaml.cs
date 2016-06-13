@@ -47,7 +47,7 @@ namespace STADLTestHarness
                     Console.WriteLine("Database Not Connected");
                 }
             }
-            catch (Exception ex)
+            catch (Exception ex) 
             {
                 Console.WriteLine("Error When Connectiing To Database Connection {0}", ex.ToString());
             }
@@ -125,6 +125,14 @@ namespace STADLTestHarness
            
             dlg.ShowDialog();
 
+        }
+
+        private void SelectStmtButton_Click(object sender, RoutedEventArgs e)
+        {
+            STADL.Bot _stadlbotSelectStmt = new STADL.Bot();
+            string selectStmt = ("SELECT * FROM ZContractContacts");
+            _stadlbotSelectStmt.Select(selectStmt);
+            SelectResponseTextBox.Text = _stadlbotSelectStmt.zContractContacts_Account;
         }
     }
 }
