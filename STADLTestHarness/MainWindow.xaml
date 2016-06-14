@@ -12,7 +12,8 @@
         <Button x:Name="HiddenPrintButton" Content="Hidden Print (No Dialog)" HorizontalAlignment="Left" Margin="169,100,0,0" VerticalAlignment="Top" Width="154" Click="HiddenPrintButton_Click"/>
         <Button x:Name="DialogPrintButton" Content="Dialog Print" HorizontalAlignment="Left" Margin="169,137,0,0" VerticalAlignment="Top" Width="154" RenderTransformOrigin="-0.853,-1.227" Click="DialogPrintButton_Click"/>
         <Button x:Name="SelectStmtButton" Content="Select" HorizontalAlignment="Left" Margin="169,174,0,0" VerticalAlignment="Top" Width="154" Click="SelectStmtButton_Click"/>
-        <TextBox x:Name="SelectResponseTextBox" HorizontalAlignment="Left" Height="23" Margin="339,174,0,0" TextWrapping="Wrap" Text="Text" VerticalAlignment="Top" Width="154"/>
+        <TextBox x:Name="SelectResponseTextBox" HorizontalAlignment="Left" Height="23" Margin="339,174,0,0" TextWrapping="Wrap" Text="{Binding Path=test}" VerticalAlignment="Top" Width="154"/>
+        <Button x:Name="Pass_ID" Content="Button" HorizontalAlignment="Left" Margin="169,216,0,0" VerticalAlignment="Top" Width="154" Click="Pass_ID_Click"/>
 
     </Grid>
 </Window>
