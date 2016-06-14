@@ -29,7 +29,7 @@ namespace STADLTestHarness
     {
         public MainWindow()
         {
-            InitializeComponent();            
+            InitializeComponent();          
         }
 
         private void DBConnectButton_Click(object sender, RoutedEventArgs e)
@@ -133,7 +133,14 @@ namespace STADLTestHarness
             string selectStmt = ("SELECT * FROM ZContractContacts");
             _stadlbotSelectStmt.Select(selectStmt);
             Console.WriteLine("Before Setting textbox");
-            SelectResponseTextBox.Text = _stadlbotSelectStmt.zContractContacts_AccountName;
+            //SelectResponseTextBox.Text = _stadlbotSelectStmt.zContractContacts_AccountName;
+        }
+
+        private void Pass_ID_Click(object sender, RoutedEventArgs e)
+        {
+            string ID = "00001";           
+            STADL.Bot _stadlbotStartExe = new STADL.Bot();
+            _stadlbotStartExe.StartBRA(ID);
         }
     }
 }
